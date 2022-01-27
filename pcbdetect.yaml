@@ -1,0 +1,7 @@
+train: data/PCBDatasets/dataSet/images/train
+val:  data/PCBDatasets/dataSet/images/val
+test: data/PCBDatasets/dataSet/images/test
+
+nc: 6
+
+names: ['copper', 'mousebite', 'open', 'pin-hole', 'short', 'spur']
